@@ -1,2 +1,3 @@
-# java-music-player-music-BAY
-Music Player application using JavaFX library of Java 
+## Music BAY 
+### JavaFX Music Player Application
+![](resources/images/readme.png)
